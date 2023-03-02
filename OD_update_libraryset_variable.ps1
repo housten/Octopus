@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = "Stop";
 # Define working variables
 $octopusURL = "https://solidifyheidi.octopus.app"
-$octopusAPIKey = "API-ALSHOJT1EJFG12BVTEKTUXEOX30I3MMC"
+$octopusAPIKey = "API-PUTYOURKEYHERE"
 $header = @{ "X-Octopus-ApiKey" = $octopusAPIKey }
 
 # Specify the Space to search in
