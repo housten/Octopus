@@ -8,4 +8,4 @@ Script to update a variable in a global library or a project variable set.
     - going to the project variables page
     - click on the three vertical dots to the top right
     - right click the export to json link and copy the url.
-   
+## OD_   
